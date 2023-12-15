@@ -11,9 +11,9 @@ Dentro de cada elección se encuentra:
 
 La composición de cada región es la siguiente:
 
-Metropolitana: AMBA (CABA + 40 municipios)
-Pampeana: Interior PBA, Cordoba, Santa Fe, Entre Rios y La Pampa
-Cuyo: Mendoza, San Luis, San Juan
-NOA: Tucuman, Santiago del Estero, Catamarca, Jujuy, La Rioja, Salta
-NEA: Formosa, Misiones, Chaco, Corrientes
-Patagonia: Tierra del Fuego, Neuquen, Chubut, Rio Negro y Santa Cruz
+- Metropolitana: AMBA (CABA + 40 municipios)
+- Pampeana: Interior PBA, Cordoba, Santa Fe, Entre Rios y La Pampa
+- Cuyo: Mendoza, San Luis, San Juan
+- NOA: Tucuman, Santiago del Estero, Catamarca, Jujuy, La Rioja, Salta
+- NEA: Formosa, Misiones, Chaco, Corrientes
+- Patagonia: Tierra del Fuego, Neuquen, Chubut, Rio Negro y Santa Cruz
